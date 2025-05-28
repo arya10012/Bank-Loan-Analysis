@@ -12,7 +12,7 @@ With over **38,000+ rows and 24 features**, the dataset includes customer demogr
 
 - **MySQL** – Data import, cleaning, and querying
 - **Python** – Pandas, NumPy, Matplotlib, Seaborn (for EDA)
-- **Power BI / Tableau** *(optional)* – For data visualization dashboards
+- **Tableau** – For data visualization dashboards
 - **Excel** – For initial inspection and formatting (optional)
 
 ---
