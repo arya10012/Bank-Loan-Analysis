@@ -60,7 +60,7 @@ With over **38,000+ rows and 24 features**, the dataset includes customer demogr
 - Performed data wrangling and pattern analysis to identify business risks.
 - Created summary visualizations (if applicable) to present insights clearly.
 
-## Dashboard 
+## 🏦 Dashboard 
 ![Dashboard Summary](SUMMARY.png)
 
 ---
