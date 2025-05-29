@@ -62,7 +62,15 @@ With over **38,000+ rows and 24 features**, the dataset includes customer demogr
 - Created summary visualizations (if applicable) to present insights clearly.
 
 ## Dashboard 
-(SUMMARY.png)
+![Dashboard Summary](SUMMARY.png)
+
+---
+
+![Dashboard OVERVIEW](OVERVIEW.png)
+
+---
+
+![Dashboard DETAILS](DETAILS.png)
 
 
 
